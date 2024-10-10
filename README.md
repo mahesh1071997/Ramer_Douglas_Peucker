@@ -26,7 +26,7 @@
 
 ## 🎥 YouTube Demo
 
-Check out the demo of the RDP Algorithm Visualizer on YouTube: [Watch the Video](<YouTube_Link>)
+Check out the demo of the RDP Algorithm Visualizer on YouTube: [Watch the Video](<https://www.youtube.com/watch?v=hnUzYspGlKM>)
 
 ## 🚀 Getting Started
 
